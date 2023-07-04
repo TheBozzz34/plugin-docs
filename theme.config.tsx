@@ -9,9 +9,9 @@ const config: DocsThemeConfig = {
   chat: {
     link: 'https://dsc.gg/t0ast',
   },
-  docsRepositoryBase: 'https://github.com/thebozzz34/refractordocs',
+  docsRepositoryBase: 'https://github.com/thebozzz34/plugin-docs',
   footer: {
-    text: 'My GitHub',
+    text: '© Ethan James 2023',
   },
 }
 
