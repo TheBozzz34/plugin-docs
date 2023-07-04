@@ -1,0 +1,15 @@
+{
+  "index": "Refractor",
+  "commands": "Commands",
+  "advanced": "Advanced",
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://necrozma.xyz/contact.txt",
+    "newWindow": true
+  }
+}
